@@ -1,2 +1,2 @@
 # instagram-page
-HTML/CSS of ana instagram account
+HTML/CSS of an instagram account
